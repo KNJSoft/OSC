@@ -2,9 +2,9 @@
 
 ## Informations du Projet
 
-- **Nom et Prénom**: Assistant Cascade
+- **Nom et Prénom**: KOGNOUJU NGOUAGNA JOEL
 - **Langages utilisés**: HTML, CSS, JavaScript (Vanilla)
-- **Temps passé**: 4h
+- **Temps passé**: 1h:30min
 
 ## Description
 
